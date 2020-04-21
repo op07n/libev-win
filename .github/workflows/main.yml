@@ -30,7 +30,7 @@ jobs:
             call "%programfiles(x86)%\Microsoft Visual Studio\2019\Enterprise\VC\Auxiliary\Build\vcvars32.bat"
             mkdir build
             cd build
-            cmake -G "Visual Studio 16 2019" -A Win32 ../"
+            cmake -G "Visual Studio 16 2019" -A Win32 ../" -config Release
             cmake --build .
         shell: cmd
 
