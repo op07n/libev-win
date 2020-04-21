@@ -1,3 +1,7 @@
+Duplicate of https://github.com/disenone/libev-win.git
+
+
+
 [![Build status](https://ci.appveyor.com/api/projects/status/erbtcj4xo80ownns?svg=true)](https://ci.appveyor.com/project/disenone/libev-win)
 
 libev is a high-performance event loop/event model with lots of features.
